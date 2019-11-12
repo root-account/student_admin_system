@@ -1,0 +1,34 @@
+
+.skin-1 .sidebar {
+    background-color: #222A2D;
+    border-right-width: 0;
+}
+
+
+.skin-1 .nav-list > li {
+    border-color: #3F4E54;
+}
+
+
+
+.no-skin .sidebar {
+    background-color: #222A2D;
+    border-style: solid;
+    border-color: #CCC;
+    border-width: 0 1px 0 0;
+}
+
+.profile-user-info-striped .profile-info-name {
+    color: #fff;
+    background-color: #336199;
+    border-top: 1px solid #224877;
+}
+
+.profile-user-info-striped {
+    border: 1px solid #336199;
+}
+
+.profile-user-info-striped .profile-info-value {
+    border-top: 1px dotted #336199;
+    padding-left: 12px;
+}
